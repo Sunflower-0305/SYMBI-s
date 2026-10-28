@@ -1,2 +1,2 @@
-# SYMBI-s
+# SYMBI's
 All About SYMBI's.
